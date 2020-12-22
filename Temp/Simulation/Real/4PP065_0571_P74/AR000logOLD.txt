@@ -1,0 +1,21 @@
+Tue Dec 22 10:46:22 2020
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue Dec 22 10:46:22 2020
+No ARsim registration found!
+
+Tue Dec 22 10:46:22 2020
+InstanceName: 01d6d8368afabc90
+
+Tue Dec 22 10:46:22 2020
+WorkingDirectory: C:\Users\Xiaomi\Downloads\B-R-AS-lab3-master\Temp\Simulation\Real\4PP065_0571_P74\
+
+Tue Dec 22 10:46:22 2020
+COMMAND_COLDSTART
+
+Tue Dec 22 10:46:24 2020
+Version: D4.52
+
+Tue Dec 22 11:00:42 2020
+COMMAND_TERMINATE
+

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildReasons>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library\fb_motor.c.o">
+    <BuildReason>New rule "c:\users\xiaomi\downloads\b-r-as-lab3-master\temp\objects\real\4pp065_0571_p74\library\fb_motor.c.o".</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library\fb_endswitch.c.o">
+    <BuildReason>New rule "c:\users\xiaomi\downloads\b-r-as-lab3-master\temp\objects\real\4pp065_0571_p74\library\fb_endswitch.c.o".</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library\fb_controller.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\includes\library.h" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library.xref">
+    <BuildReason>ExternalCommand line differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library\fb_axis.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\includes\library.h" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr\main.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\library\library.fun" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library\fb_integrator.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\includes\library.h" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library\a.out">
+    <BuildReason>ExternalCommand line differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr\_bur_pvdef.c.o">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr\main.c.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library\library.ox">
+    <BuildReason>Target "library.ox" does not exist</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\library\library.ox" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr\a.out">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr\main.c.o" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr\sdcaxisctr.ox">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr\a.out" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr\sdcaxisctr.ox" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\iomap.br">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\library\library.fun" differs.
+</BuildReason>
+  </Rule>
+  <Rule ID="#cpu_tp.mak">
+    <BuildReason>Rule is forced.</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\binaries\real\4pp065_0571_p74\transfer.lst">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\real\4pp065_0571_p74\sdcaxisctr.br" differs.
+</BuildReason>
+  </Rule>
+</BuildReasons>

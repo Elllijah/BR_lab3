@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Crossref Scope="SDCAxisCtrl_X" AppMod="">
+  <Vars>
+    <Var Name="AxisX_HW.EncIf1_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="13" C="10" A="W" PS=" Ln:13, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DiDoIf_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="14" C="10" A="W" PS=" Ln:14, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DrvIf_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="15" C="10" A="W" PS=" Ln:15, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.EncIf1_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="18" C="17" A="RW" PS=" Ln:18, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DrvIf_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="19" C="17" A="RW" PS=" Ln:19, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DiDoIf_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="20" C="17" A="RW" PS=" Ln:20, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iEncOK" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="23" C="13" A="W" PS=" Ln:23, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iDrvOK" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="24" C="13" A="W" PS=" Ln:24, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iStatusEnable" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="25" C="13" A="W" PS=" Ln:25, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iDriveReady" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="26" C="14" A="W" PS=" Ln:26, Col:14" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="71" C="20" A="RW" PS=" Ln:71, Col:20" />
+        <Pos L="99" C="21" A="RW" PS=" Ln:99, Col:21" />
+        <Pos L="126" C="21" A="RW" PS=" Ln:126, Col:21" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.dt" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="28" C="15" A="W" PS=" Ln:28, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.k_i" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="29" C="15" A="W" PS=" Ln:29, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.k_p" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="30" C="15" A="W" PS=" Ln:30, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.max_abs_value" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="31" C="15" A="W" PS=" Ln:31, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.pwm_period" Scope="Local" Type="UINT">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="33" C="2" A="W" PS=" Ln:33, Col:2" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.coil_powered" Scope="Local" Type="BOOL">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="38" C="6" A="R" PS=" Ln:38, Col:6" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="40" C="12" A="RW" PS=" Ln:40, Col:12" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.coil_pwm_value" Scope="Local" Type="INT">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="41" C="3" A="W" PS=" Ln:41, Col:3" />
+        <Pos L="58" C="5" A="W" PS=" Ln:58, Col:5" />
+        <Pos L="87" C="6" A="W" PS=" Ln:87, Col:6" />
+        <Pos L="114" C="6" A="W" PS=" Ln:114, Col:6" />
+        <Pos L="141" C="3" A="W" PS=" Ln:141, Col:3" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.boost" Scope="Local" Type="BOOL">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="45" C="7" A="R" PS=" Ln:45, Col:7" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.desired_speed" Scope="Local" Type="INT">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="47" C="4" A="W" PS=" Ln:47, Col:4" />
+        <Pos L="51" C="4" A="W" PS=" Ln:51, Col:4" />
+        <Pos L="59" C="5" A="W" PS=" Ln:59, Col:5" />
+        <Pos L="73" C="24" A="R" PS=" Ln:73, Col:24" />
+        <Pos L="88" C="6" A="W" PS=" Ln:88, Col:6" />
+        <Pos L="101" C="31" A="R" PS=" Ln:101, Col:31" />
+        <Pos L="115" C="6" A="W" PS=" Ln:115, Col:6" />
+        <Pos L="128" C="32" A="R" PS=" Ln:128, Col:32" />
+        <Pos L="142" C="3" A="W" PS=" Ln:142, Col:3" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.reference" Scope="Local" Type="BOOL">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="53" C="7" A="R" PS=" Ln:53, Col:7" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.endswitch_a_reached" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="55" C="14" A="R" PS=" Ln:55, Col:14" />
+        <Pos L="69" C="36" A="R" PS=" Ln:69, Col:36" />
+        <Pos L="97" C="37" A="R" PS=" Ln:97, Col:37" />
+        <Pos L="111" C="15" A="R" PS=" Ln:111, Col:15" />
+        <Pos L="124" C="37" A="R" PS=" Ln:124, Col:37" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.endswitch_b_reached" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="55" C="49" A="R" PS=" Ln:55, Col:49" />
+        <Pos L="68" C="36" A="R" PS=" Ln:68, Col:36" />
+        <Pos L="84" C="15" A="R" PS=" Ln:84, Col:15" />
+        <Pos L="96" C="37" A="R" PS=" Ln:96, Col:37" />
+        <Pos L="123" C="37" A="R" PS=" Ln:123, Col:37" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.pwm_value" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="57" C="11" A="W" PS=" Ln:57, Col:11" />
+        <Pos L="86" C="12" A="W" PS=" Ln:86, Col:12" />
+        <Pos L="113" C="12" A="W" PS=" Ln:113, Col:12" />
+        <Pos L="140" C="9" A="W" PS=" Ln:140, Col:9" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.reset_counter" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="60" C="11" A="W" PS=" Ln:60, Col:11" />
+        <Pos L="92" C="12" A="W" PS=" Ln:92, Col:12" />
+        <Pos L="119" C="12" A="W" PS=" Ln:119, Col:12" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iActTime" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="66" C="16" A="W" PS=" Ln:66, Col:16" />
+        <Pos L="94" C="17" A="W" PS=" Ln:94, Col:17" />
+        <Pos L="121" C="17" A="W" PS=" Ln:121, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iActPos" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="67" C="16" A="W" PS=" Ln:67, Col:16" />
+        <Pos L="95" C="17" A="W" PS=" Ln:95, Col:17" />
+        <Pos L="122" C="17" A="W" PS=" Ln:122, Col:17" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.counter" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="67" C="33" A="R" PS=" Ln:67, Col:33" />
+        <Pos L="95" C="34" A="R" PS=" Ln:95, Col:34" />
+        <Pos L="122" C="34" A="R" PS=" Ln:122, Col:34" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iPosHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="68" C="17" A="W" PS=" Ln:68, Col:17" />
+        <Pos L="96" C="18" A="W" PS=" Ln:96, Col:18" />
+        <Pos L="123" C="18" A="W" PS=" Ln:123, Col:18" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iNegHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="69" C="17" A="W" PS=" Ln:69, Col:17" />
+        <Pos L="97" C="18" A="W" PS=" Ln:97, Col:18" />
+        <Pos L="124" C="18" A="W" PS=" Ln:124, Col:18" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.in" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="73" C="18" A="W" PS=" Ln:73, Col:18" />
+        <Pos L="74" C="18" A="W" PS=" Ln:74, Col:18" />
+        <Pos L="74" C="37" A="R" PS=" Ln:74, Col:37" />
+        <Pos L="75" C="22" A="R" PS=" Ln:75, Col:22" />
+        <Pos L="75" C="51" A="R" PS=" Ln:75, Col:51" />
+        <Pos L="75" C="82" A="W" PS=" Ln:75, Col:82" />
+        <Pos L="101" C="19" A="W" PS=" Ln:101, Col:19" />
+        <Pos L="103" C="19" A="W" PS=" Ln:103, Col:19" />
+        <Pos L="103" C="38" A="R" PS=" Ln:103, Col:38" />
+        <Pos L="104" C="23" A="R" PS=" Ln:104, Col:23" />
+        <Pos L="104" C="52" A="R" PS=" Ln:104, Col:52" />
+        <Pos L="104" C="83" A="W" PS=" Ln:104, Col:83" />
+        <Pos L="128" C="19" A="W" PS=" Ln:128, Col:19" />
+        <Pos L="130" C="19" A="W" PS=" Ln:130, Col:19" />
+        <Pos L="130" C="38" A="R" PS=" Ln:130, Col:38" />
+        <Pos L="131" C="23" A="R" PS=" Ln:131, Col:23" />
+        <Pos L="131" C="52" A="R" PS=" Ln:131, Col:52" />
+        <Pos L="131" C="83" A="W" PS=" Ln:131, Col:83" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.speed" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="73" C="46" A="R" PS=" Ln:73, Col:46" />
+        <Pos L="101" C="53" A="R" PS=" Ln:101, Col:53" />
+        <Pos L="128" C="54" A="R" PS=" Ln:128, Col:54" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.min_task" Scope="Local" Type="INT">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="75" C="26" A="R" PS=" Ln:75, Col:26" />
+        <Pos L="75" C="57" A="R" PS=" Ln:75, Col:57" />
+        <Pos L="104" C="27" A="R" PS=" Ln:104, Col:27" />
+        <Pos L="104" C="58" A="R" PS=" Ln:104, Col:58" />
+        <Pos L="131" C="27" A="R" PS=" Ln:131, Col:27" />
+        <Pos L="131" C="58" A="R" PS=" Ln:131, Col:58" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.in" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="76" C="11" A="W" PS=" Ln:76, Col:11" />
+        <Pos L="105" C="12" A="W" PS=" Ln:105, Col:12" />
+        <Pos L="132" C="12" A="W" PS=" Ln:132, Col:12" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.out" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="76" C="30" A="R" PS=" Ln:76, Col:30" />
+        <Pos L="105" C="31" A="R" PS=" Ln:105, Col:31" />
+        <Pos L="132" C="31" A="R" PS=" Ln:132, Col:31" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.direction" Scope="Local" Type="BOOL">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="82" C="9" A="R" PS=" Ln:82, Col:9" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iLifeCnt" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="148" C="13" A="W" PS=" Ln:148, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntDriveEnable" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="149" C="14" A="W" PS=" Ln:149, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntDriveReady" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="150" C="14" A="W" PS=" Ln:150, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntNegHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="151" C="14" A="W" PS=" Ln:151, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntPosHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="152" C="14" A="W" PS=" Ln:152, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntReference" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="153" C="14" A="W" PS=" Ln:153, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iLifeCnt" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="154" C="13" A="W" PS=" Ln:154, Col:13" />
+      </File>
+    </Var>
+  </Vars>
+  <Consts>
+    <Const Name="ncSDC_ENC16" Scope="Global" Type="UINT">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="13" C="24" A="R" PS=" Ln:13, Col:24" />
+      </File>
+    </Const>
+    <Const Name="ncSDC_DRVSERVO16" Scope="Global" Type="UINT">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="15" C="23" A="R" PS=" Ln:15, Col:23" />
+      </File>
+    </Const>
+    <Const Name="ncSDC_DIDO" Scope="Global" Type="UINT">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="14" C="24" A="R" PS=" Ln:14, Col:24" />
+      </File>
+    </Const>
+  </Consts>
+  <Funcs>
+    <Func Name="FB_Axis" Lib="">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="40" C="3" PS=" Ln:40, Col:3" />
+      </File>
+    </Func>
+    <Func Name="AsIOTimeCyclicStart" Lib="">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="66" C="34" PS=" Ln:66, Col:34" />
+        <Pos L="94" C="35" PS=" Ln:94, Col:35" />
+        <Pos L="121" C="35" PS=" Ln:121, Col:35" />
+      </File>
+    </Func>
+    <Func Name="FB_Controller" Lib="">
+      <File Name="C:/Users/Xiaomi/Downloads/B-R-AS-lab3-master/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="71" C="5" PS=" Ln:71, Col:5" />
+        <Pos L="99" C="6" PS=" Ln:99, Col:6" />
+        <Pos L="126" C="6" PS=" Ln:126, Col:6" />
+      </File>
+    </Func>
+  </Funcs>
+</Crossref>
